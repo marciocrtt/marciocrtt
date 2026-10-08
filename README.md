@@ -22,7 +22,7 @@ cortar o que não importa e garantir que funciona de verdade.**
 
 ### `> o que eu construo`
 
-| | |
+| frente | na prática |
 |---|---|
 | 📊 **Painéis que viram decisão** | dashboards de venda, funil e operação — número que alguém usa, não gráfico bonito |
 | 🎯 **Leads e CRM sob medida** | captura, qualificação e acompanhamento de lead sem depender de ferramenta engessada |
