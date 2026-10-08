@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6d28d9,100:ec4899&height=190&section=header&text=Marcio%20Cerutti&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=growth%20e%20e-commerce%20com%20IA&descSize=18&descAlignY=56&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1e3a8a,100:0891b2&height=190&section=header&text=Marcio%20Cerutti&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=growth%20e%20e-commerce%20com%20IA&descSize=18&descAlignY=56&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Growth+%C2%B7+E-commerce+%C2%B7+IA;Problema+de+neg%C3%B3cio+%E2%86%92+produto+funcionando;IA+%C3%A9+o+meu+time+de+engenharia;Prot%C3%B3tipo+em+dias%2C+n%C3%A3o+em+meses" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=640&lines=Growth+%C2%B7+E-commerce+%C2%B7+IA;Problema+de+neg%C3%B3cio+%E2%86%92+produto+funcionando;IA+%C3%A9+o+meu+time+de+engenharia;Prot%C3%B3tipo+em+dias%2C+n%C3%A3o+em+meses" alt="typing" />
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ cortar o que não importa e garantir que funciona de verdade.**
 ### `> ritmo`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=marciocrtt&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA&locale=pt_br" alt="sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com?user=marciocrtt&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&locale=pt_br" alt="sequência de contribuições" />
 </p>
 
 <p align="center">
@@ -70,4 +70,4 @@ cortar o que não importa e garantir que funciona de verdade.**
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:6d28d9,100:0f0c29&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:1e3a8a,100:0b1220&height=110&section=footer" width="100%" />
