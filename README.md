@@ -98,7 +98,7 @@ cortar o que não importa e garantir que funciona de verdade.**
 ### `> ritmo`
 
 <p align="center">
-  <img src="./assets/numeros.svg" alt="em números: 2.439 contribuições, 3.087 commits, 62 pull requests, 157 merges, +1,5 mi linhas" width="100%" />
+  <img src="./assets/em-numeros.svg" alt="em números: 2.439 contribuições, 3.087 commits, 62 pull requests, 157 merges, +1,5 mi linhas" width="100%" />
 </p>
 
 <p align="center">
