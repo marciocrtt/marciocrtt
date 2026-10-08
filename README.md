@@ -98,7 +98,7 @@ cortar o que não importa e garantir que funciona de verdade.**
 ### `> ritmo`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=marciocrtt&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&locale=pt_br" alt="sequência de contribuições" />
+  <img src="./assets/numeros.svg" alt="em números: 2.439 contribuições, 3.087 commits, 62 pull requests, 157 merges, +1,5 mi linhas" width="100%" />
 </p>
 
 <p align="center">
